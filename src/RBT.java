@@ -1,10 +1,3 @@
-/*Yildirim Can Sehirlioglu
- * 080302010
- * COMPE 323 HW1
- */
-
-//I've drawn on mainly from my course notes for the RBT properties and insertion cases
-
 import javax.swing.JOptionPane;
 
 enum Color { Red, Black }    //the enum values for the colors of the tree objects
